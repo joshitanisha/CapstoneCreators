@@ -1,0 +1,164 @@
+
+
+[
+  {
+    "product_id": "1001",
+    "category": "knife",
+    "style": "cutlery",
+    "brand": "zwilling",
+    "description": "chef knife stainless steel sharp",
+    "price": 89.99
+  },
+  {
+    "product_id": "1002",
+    "category": "knife-set",
+    "style": "cutlery",
+    "brand": "zwilling",
+    "description": "professional knife set kitchen",
+    "price": 199.99
+  },
+  {
+    "product_id": "1003",
+    "category": "cutting-board",
+    "style": "cutlery",
+    "brand": "williams-sonoma",
+    "description": "wooden cutting board acacia",
+    "price": 49.99
+  },
+  {
+    "product_id": "1004",
+    "category": "mixing-bowl",
+    "style": "homekeeping",
+    "brand": "oxo",
+    "description": "stainless steel mixing bowl",
+    "price": 29.99
+  },
+  {
+    "product_id": "1005",
+    "category": "storage-container",
+    "style": "homekeeping",
+    "brand": "rubbermaid",
+    "description": "airtight food storage container",
+    "price": 19.99
+  },
+  {
+    "product_id": "1006",
+    "category": "coffee-maker",
+    "style": "electrics",
+    "brand": "cuisinart",
+    "description": "programmable coffee maker machine",
+    "price": 119.99
+  },
+  {
+    "product_id": "1007",
+    "category": "coffee-grinder",
+    "style": "electrics",
+    "brand": "cuisinart",
+    "description": "electric coffee grinder compact",
+    "price": 59.99
+  },
+  {
+    "product_id": "1008",
+    "category": "fry-pan",
+    "style": "cookware",
+    "brand": "t-fal",
+    "description": "non stick fry pan cooking",
+    "price": 34.99
+  },
+  {
+    "product_id": "1009",
+    "category": "dutch-oven",
+    "style": "cookware",
+    "brand": "staub",
+    "description": "cast iron dutch oven heavy duty",
+    "price": 299.99
+  },
+  {
+    "product_id": "1010",
+    "category": "spatula",
+    "style": "cookware",
+    "brand": "oxo",
+    "description": "silicone spatula heat resistant",
+    "price": 14.99
+  },
+  {
+    "product_id": "1011",
+    "category": "plate-set",
+    "style": "tableware",
+    "brand": "corelle",
+    "description": "ceramic plate set dinnerware",
+    "price": 79.99
+  },
+  {
+    "product_id": "1012",
+    "category": "glass",
+    "style": "tableware",
+    "brand": "libbey",
+    "description": "drinking glass set clear",
+    "price": 24.99
+  },
+  {
+    "product_id": "1013",
+    "category": "wine-glass",
+    "style": "tableware",
+    "brand": "riedel",
+    "description": "crystal wine glass premium",
+    "price": 89.99
+  },
+  {
+    "product_id": "1014",
+    "category": "bowl",
+    "style": "tableware",
+    "brand": "ikea",
+    "description": "ceramic bowl everyday use",
+    "price": 9.99
+  },
+  {
+    "product_id": "1015",
+    "category": "toaster",
+    "style": "electrics",
+    "brand": "philips",
+    "description": "electric toaster 2 slice",
+    "price": 49.99
+  },
+  {
+    "product_id": "1016",
+    "category": "blender",
+    "style": "electrics",
+    "brand": "nutribullet",
+    "description": "smoothie blender high speed",
+    "price": 99.99
+  },
+  {
+    "product_id": "1017",
+    "category": "oil",
+    "style": "food",
+    "brand": "bertolli",
+    "description": "extra virgin olive oil cooking",
+    "price": 19.99
+  },
+  {
+    "product_id": "1018",
+    "category": "pan-set",
+    "style": "cookware",
+    "brand": "prestige",
+    "description": "cookware pan set non stick",
+    "price": 149.99
+  },
+  {
+    "product_id": "1019",
+    "category": "measuring-cup",
+    "style": "homekeeping",
+    "brand": "oxo",
+    "description": "plastic measuring cup kitchen",
+    "price": 12.99
+  },
+  {
+    "product_id": "1020",
+    "category": "knife",
+    "style": "cutlery",
+    "brand": "victorinox",
+    "description": "professional chef knife sharp blade",
+    "price": 79.99
+  }
+]
